@@ -31,3 +31,4 @@ cp /opt/data/pepper-flash.info /opt/google/chrome/pepper/ -f
 echo "deleting downloaded crap"
 rm -rf /opt/data/
 rm /opt/data.tar
+restart ui
