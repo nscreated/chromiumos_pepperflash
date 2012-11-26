@@ -7,6 +7,7 @@ this also downloads less files, but will have to be updated manually by me, or s
 i'm still looking in to adding Java support, hopefully i get this working quite soon!
 
 how to install?
+
 1. start Chromium OS.
 
 2. log in.
