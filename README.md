@@ -1,10 +1,13 @@
 this scripts installs: PDF, MP3 /MP4 flash for Hexxeh's Chromium OS builds.
 
-all credits go to dz0ny, his script can be found here: https://gist.github.com/3065781 , but this script didn't work for me and some more people. so i tried to do what his script did, but a little different.
+all credits go to dz0ny, his script can be found here: https://gist.github.com/3065781
+but this script didn't work for me and some more people. so i tried to do what his script did, but a little different.
+
+in the latest builds, Python is included again! this makes his script work again, if bandwith and time isn't a concern, please use his script!
 
 this also downloads less files, but will have to be updated manually by me, or someone else if you edit the line after: echo "Downloading important data" to your own download link.
 
-If anyone knows how to install more stuff, contact me at: kna.kel2+chromium@gmail.com
+If anyone knows how to install more stuff or got anything to ask, you can contact me at: kna.kel2+chromium@gmail.com
 at the moment i'm trying to install Java, and Google Audio and Video plugin, so if you've got this working please contact me.
 
 how to install?
