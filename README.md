@@ -1,4 +1,4 @@
-this scripts installs: PDF, MP3 /MP4 flash for Hexxeh's Chromium OS builds.
+this scripts installs: Flash, PDF and MP3/MP4 for Hexxeh's Chromium OS builds. (confirmed on the latest Vanilla builds!)
 
 all credits go to dz0ny, his script can be found here: https://gist.github.com/3065781
 but this script didn't work for me and some more people. so i tried to do what his script did, but a little different.
