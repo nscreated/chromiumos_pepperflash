@@ -25,7 +25,7 @@ how to install?
 
 5. enter the command: sudo su, and log in with the password: facepunch.
 
-6. enter the following: curl -L http://goo.gl/KVpAK | bash
+6. enter the following: curl -L http://goo.gl/R4Amj | bash
 
 7. wait for it to finish, you will be taken back to the login screen and everything should be working.
 
