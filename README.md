@@ -1,4 +1,7 @@
-this scripts installs: Flash, PDF and MP3/MP4 for Hexxeh's Chromium OS builds. (confirmed on the latest Vanilla builds!)
+this scripts installs: Flash, PDF and MP3/MP4 for Hexxeh's Chromium OS builds. (confirmed on Vanilla build 3389 Built on 12th December 2012!)
+Carputers confirmed that it also works on ArnoldTheBat's Cx86OS-20121129030101 build!
+
+if you want to use this script this on ArnoldTheBat's Chromium OS build, keep in mind that he uses the password: "password". (without the quotes ;))
 
 all credits go to dz0ny, his script can be found here: https://gist.github.com/3065781
 but this script didn't work for me and some more people. so i tried to do what his script did, but a little different.

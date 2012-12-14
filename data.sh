@@ -6,10 +6,10 @@ mount -o remount, rw /
 cd /opt/
 
 echo "Downloading important data"
-curl -o "data.tar" "https://dl.dropbox.com/s/3es2bk8oeb3wjf5/data.tar?dl=1"
+curl -o "data.tar" "https://dl.dropbox.com/s/memymt7nlagvaof/addons.tar?dl=1"
 
 echo "extracting the very important data!"
-tar -xvf data.tar
+tar -xf data.tar
 
 mkdir -p /usr/lib/mozilla/plugins/
 
