@@ -48,3 +48,8 @@ fixing audio (there's a change in the new builds, for me audio was working so i 
 8. enter the following command: mount -o remount, r /
 
 9. enter the following command: reboot. it should work now.
+
+
+Thanks to Arnold The Bat, some touchpad's that aren't working with a default setup. can now be fixed!
+run this command:
+curl -L http://goo.gl/zxjPJ | bash
