@@ -1,0 +1,6 @@
+sudo su
+mount -o remount, rw /
+cp /etc/X11/xorg.conf.d/50-touchpad-cmt.conf /etc/X11/xorg.conf.d/50-touchpad-cmt.conf.bak
+rm /etc/X11/xorg.conf.d/50-touchpad-cmt.conf
+cd /etc/X11/xorg.conf.d/
+wget http://chromium.arnoldthebat.co.uk/files/fw/etc/X11/xorg.conf.d/50-touchpad-cmt.conf
