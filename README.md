@@ -51,5 +51,6 @@ fixing audio (there's a change in the new builds, for me audio was working so i 
 
 
 Thanks to Arnold The Bat, some touchpad's that aren't working with a default setup. can now be fixed!
-run this command:
-curl -L http://goo.gl/zxjPJ | bash
+run one of these commands as root:
+for synaptics curl -L 
+for alps curl -L 
