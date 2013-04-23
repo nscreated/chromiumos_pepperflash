@@ -26,7 +26,7 @@ how to install?
 
 5. enter the command: sudo su, and log in with the password: facepunch.
 
-6. enter the following: curl -L http://goo.gl/5R0xc | bash (if you don't want to have Hangouts, you can still use the old link: curl -L http://goo.gl/R4Amj | bash)
+6. enter the following: curl -L http://goo.gl/Ue6VQ | bash (if you don't want to have Hangouts, you can still use the old link: curl -L http://goo.gl/R4Amj | bash)
 
 7. wait for it to finish, you will automatically be taken back to the login screen and everything should be working.
 
@@ -51,5 +51,5 @@ fixing audio (there's a change in the new builds, for me audio was working so i 
 9. enter the following command: reboot. it should work now.
 
 
-Thanks to Arnold The Bat, some touchpad's that aren't working with a default setup can now be fixed! he also got a broadcom wifi card working! go to his page to find out how to set it up.
+Thanks to Arnold The Bat, some touchpad's that aren't working with a default setup can now be fixed! he also got a broadcom wifi card working! go to his page (http://arnoldthebat.co.uk/) to find out how to set it up.
  zhaostu made a script that can automaticaly detect and set-up your touchpad, you can find it here: https://gist.github.com/zhaostu/4552236
