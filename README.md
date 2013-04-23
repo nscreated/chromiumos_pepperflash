@@ -1,17 +1,18 @@
-this scripts installs: Flash, PDF and MP3/MP4 for Hexxeh's Chromium OS builds. (confirmed on Vanilla build 3389 Built on 12th December 2012!)
-Carputers confirmed that it also works on ArnoldTheBat's Cx86OS-20121129030101 build!
+this scripts installs: Flash, PDF, MP3/MP4 and hangouts! for some Chromium OS builds. (confirmed on Vanilla build 3389 Built on 12th December 2012!)
+Carputers confirmed that it also works on ArnoldTheBat's Cx86OS-20130423010101 build!
 
-if you want to use this script this on ArnoldTheBat's Chromium OS build, keep in mind that he uses the password: "password". (without the quotes ;))
+if you want to use this script on ArnoldTheBat's Chromium OS build, keep in mind that he uses the password: "password" instead of "facepunch". (without the quotes ;))
 
 all credits go to dz0ny, his script can be found here: https://gist.github.com/3065781
 but this script didn't work for me and some more people. so i tried to do what his script did, but a little different.
+And also a big thanks to Jamison Lofthouse and Steve Pirk, as they got the Google Hangout plugin to work.
 
-in the latest builds, Python is included again! this makes his script work again, if bandwith and time isn't a concern, please use his script!
+in the latest builds, Python is included again! this makes Dz0ny's script work again, if bandwith and time isn't a concern, please use his script!
 
-this also downloads less files, but will have to be updated manually by me, or someone else if you edit the line after: echo "Downloading important data" to your own download link.
+because bandwith is a concern for some people (i guesss no-one using Chromium Os will face that problem though;), i kept this package as small as possible. (it'll probably also be a little bit faster, but i haven't compared the scripts)
 
-If anyone knows how to install more stuff or got anything to ask, you can contact me at: kna.kel2+chromium@gmail.com
-at the moment i'm trying to install Java, and Google Audio and Video plugin, so if you've got this working please contact me.
+If anyone knows how to install more stuff or got anything to ask, you can contact me at: knakel2+chromium@gmail.com
+I would still like to add Java so if you've got this working please contact me.
 
 how to install?
 
@@ -25,9 +26,9 @@ how to install?
 
 5. enter the command: sudo su, and log in with the password: facepunch.
 
-6. enter the following: curl -L http://goo.gl/R4Amj | bash
+6. enter the following: curl -L http://goo.gl/R4Amj | bash (if you don't want to have Hangouts, you can still use the old link: curl -L http://goo.gl/R4Amj | bash)
 
-7. wait for it to finish, you will be taken back to the login screen and everything should be working.
+7. wait for it to finish, you will automatically be taken back to the login screen and everything should be working.
 
 fixing audio (there's a change in the new builds, for me audio was working so i don't know what to do if it doesn't. you can try to restart your audio driver with alsaucm or alsactl):
 
@@ -50,9 +51,5 @@ fixing audio (there's a change in the new builds, for me audio was working so i 
 9. enter the following command: reboot. it should work now.
 
 
-Thanks to Arnold The Bat, some touchpad's that aren't working with a default setup. can now be fixed!
-run one of these commands as root:
-for synaptics curl -L http://goo.gl/58ikE | bash
-for alps curl -L http://goo.gl/3IJ31 | bash
-
-couldn't fully test them, but i hope they work =)
+Thanks to Arnold The Bat, some touchpad's that aren't working with a default setup can now be fixed! he also got a broadcom wifi card working! go to his page to find out how to set it up.
+ zhaostu made a script that can automaticaly detect and set-up your touchpad, you can find it here: https://gist.github.com/zhaostu/4552236
