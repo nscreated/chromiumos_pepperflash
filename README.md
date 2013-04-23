@@ -1,4 +1,4 @@
-this scripts installs: Flash, PDF, MP3/MP4 and hangouts! for some Chromium OS builds. (confirmed on Vanilla build 3389 Built on 12th December 2012!)
+this scripts installs: Flash, PDF, MP3/MP4, hangouts and Netflix! for some Chromium OS builds. (confirmed on Vanilla build 3389 Built on 12th December 2012!)
 Carputers confirmed that it also works on ArnoldTheBat's Cx86OS-20130423010101 build!
 
 if you want to use this script on ArnoldTheBat's Chromium OS build, keep in mind that he uses the password: "password" instead of "facepunch". (without the quotes ;))
