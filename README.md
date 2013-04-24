@@ -26,7 +26,7 @@ how to install?
 
 5. enter the command: sudo su, and log in with the password: facepunch.
 
-6. enter the following: curl -L http://goo.gl/Ue6VQ | bash (if you don't want to have Hangouts, you can still use the old link: curl -L http://goo.gl/R4Amj | bash)
+6. enter the following: curl -L http://goo.gl/Ue6VQ | bash (if you don't want to have Hangouts and Netflix, you can still use the version without hangouts and Netflix link: curl -L http://goo.gl/JjY4W | bash)
 
 7. wait for it to finish, you will automatically be taken back to the login screen and everything should be working.
 
