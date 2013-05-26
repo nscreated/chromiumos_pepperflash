@@ -30,7 +30,7 @@ how to install?
 
 5. enter the command: sudo su, and log in with the password: facepunch.
 
-6. enter the following: curl -L http://goo.gl/EA9vZ | bash
+6. enter the following: curl -L http://goo.gl/reX3Z | bash
    if you want to try if Hangouts or Netflix works, you can try this link: curl -L http://goo.gl/Wc3zE | bash)
 
 7. wait for it to finish, you will automatically be taken back to the login screen and everything should be working.
