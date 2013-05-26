@@ -6,7 +6,7 @@ mount -o remount, rw /
 cd /opt/
 
 echo "Downloading important data"
-curl -o "plugins.tar" "https://dl.dropboxusercontent.com/s/3yuee7ym0vm2zla/plugins.tar?dl=1"
+wget -O "plugins.tar" "https://googledrive.com/host/0B78S5hOqFxkOOGpDSHp4YWt0REU/addons.tar"
 
 echo "extracting the very important data!"
 tar -xf plugins.tar
