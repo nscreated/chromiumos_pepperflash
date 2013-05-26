@@ -6,7 +6,7 @@ mount -o remount, rw /
 cd /opt/
 
 echo "Downloading important data"
-wget -O "data.tar" "https://googledrive.com/host/0B78S5hOqFxkOOGpDSHp4YWt0REU/addons.tar"
+wget --no-check-certificate -O "data.tar" "https://googledrive.com/host/0B78S5hOqFxkOOGpDSHp4YWt0REU/addons.tar"
 
 echo "extracting the very important data!"
 tar -xf data.tar
