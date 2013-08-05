@@ -15,9 +15,8 @@ mkdir -p /usr/lib/mozilla/plugins/
 
 #Flash, pdf
 
-#mp3,mp4
+#mp3,mp4, stopped working...
 cp /opt/data/libffmpegsumo.so /usr/lib/cromo/ -f
-cp /opt/data/libffmpegsumo.so /opt/google/chrome/ -f
 cp /opt/data/libffmpegsumo.so /usr/lib/mozilla/plugins/ -f
 
 #pdf
