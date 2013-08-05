@@ -1,8 +1,9 @@
-this scripts installs: Flash, PDF, MP3/MP4, hangouts and Netflix! for some Chromium OS builds. (confirmed on Vanilla build 3389 Built on 12th December 2012!)
+this scripts installs: Flash, PDF, for some Chromium OS builds. (confirmed on Vanilla build 3389 Built on 12th December 2012!)
 Carputers confirmed that it also works on ArnoldTheBat's Cx86OS-20130423010101 build!
 
 
 Sadly enough the Hangouts stopped working! i don't know about Netflix, since i can't test it.
+and since ~4-08-2013 MP3/Mp4 stopped working?
 
 
 if you want to use this script on ArnoldTheBat's Chromium OS build, keep in mind that he uses the password: "password" instead of "facepunch". (without the quotes ;))
@@ -30,8 +31,7 @@ how to install?
 
 5. enter the command: sudo su, and log in with the password: facepunch.
 
-6. enter the following: curl -L http://goo.gl/reX3Z | bash
-   if you want to try if Hangouts or Netflix works, you can try this link: curl -L http://goo.gl/yG2z5 | bash)
+6. enter the following: curl -L http://goo.gl/JL1An5 | bash
 
 7. wait for it to finish, you will automatically be taken back to the login screen and everything should be working.
 
